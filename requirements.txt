@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+nltk
+spacy
+gensim
+transformers
+sentence-transformers
+fastapi
+uvicorn
+pytest
+matplotlib
+seaborn
